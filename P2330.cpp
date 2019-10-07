@@ -3,7 +3,7 @@
 //
 //
 //  Created by tyf on 2019/9/27.
-//
+//https://www.luogu.org/problem/P2330
 #include<cmath>
 #include<cstdio>
 #include <iostream>

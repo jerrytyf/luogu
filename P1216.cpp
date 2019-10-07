@@ -4,7 +4,7 @@
 //
 //  Created by test on 2019/10/6.
 //
-
+//https://www.luogu.org/problem/P1216
 #include<bits/stdc++.h>
 using namespace std;
 #define N 1001

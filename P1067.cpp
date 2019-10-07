@@ -4,7 +4,8 @@
 //
 //  Created by tyf on 2019/9/25.
 //
-
+/*题目：https://www.luogu.org/problem/P1067
+ */
 #include <iostream>
 using namespace std;
 int lens[100],n;
